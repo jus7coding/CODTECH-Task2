@@ -80,4 +80,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 Sumit Khanduri
-- GitHub: [@jus7coding](https://github.com/jus7coding)
+- GitHub: [@Justcoding](https://github.com/jus7coding)
